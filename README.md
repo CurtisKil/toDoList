@@ -1,6 +1,6 @@
 ## Project Title
 
-Split Landing Page
+toDoList
 
 ## Purpose
 
@@ -8,7 +8,7 @@ As a new developer, I want to do a daily coding project tutorial to learn new fe
 
 ## Description
 
-A landing page that is split vertically down the middle with two choices to click on. Whenever one side is hovered on that one side will stretch out to 75% of the screen.
+A todo list that dynamically generates your todos into a list when you enter each one. It also allows the user to left click to complete a todo and right click to delete a todo
 
 ## Demo
 
